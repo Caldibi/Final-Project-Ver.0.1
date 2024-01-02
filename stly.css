@@ -1,0 +1,89 @@
+.navbar-1 {
+color: #ffffff;
+}
+.strt{
+font-size: 20px;
+margin-right: 16px;
+padding: 5px 0px;
+}
+
+.navbar-1 ul li a{
+    color: #ffffff;
+    font-size: 16px;
+}
+
+.first {
+    color: #ffffff;
+}
+.first-1{
+    color: #ffffff;
+}
+/*.rsm{
+    height: 205px;
+    width: 405px;
+}*/
+.f-class{
+
+        background-image: url(img/12.avif);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+        background-size: cover;
+}
+.f1-class{
+ 
+    background-color: rgba(119, 136, 153, 0.226);
+    color: #ffffff;
+}
+.fff-clas{
+    color: #ffffff;
+}
+.ff-clas{
+    background-color: 
+    #3d3d3c;
+    height: 5rem;
+    position:fixed; top:0px; left:0px; right:0px;
+    z-index: 5;
+    background-image: linear-gradient(#3d3d3c, black );
+}
+.fo-class{
+    background-color: #498f78
+}
+.card-img-top{
+height: 12rem;
+}
+.minibtn{
+    background-color: #498f78
+}
+.ab{
+    font-size: 20px;
+}
+
+.fc-clas{
+    background-color:  #498f78;
+    height: 5rem;
+    background-image: linear-gradient(#498f78, #3d3d3c );
+}
+.fa-clas{
+    background-color: 
+    #3d3d3c;
+    height: 5rem;
+    background-image: linear-gradient(#c4e2f3, #3d3d3c );
+}
+.fc-class{
+    background-color:#c4e2f3;  
+   
+}
+.fa-class{
+   background-color: #c4e2f3; 
+}
+.c1{
+    background-color: #c4e2f3;     
+}
+.cf{
+background-color: #498f78;
+background-image: linear-gradient(#498f78, #3d3d3c );
+}
+.fota{
+    background-image: linear-gradient(#c4e2f3, #3d3d3c );
+}
